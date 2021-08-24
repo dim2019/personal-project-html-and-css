@@ -1,0 +1,133 @@
+ @media screen and (min-width: 1280px) and (max-width: 11920px) {
+     .header-section {
+         width: 1920px;
+         height: 1280px;
+     }
+     .header-section-first-div {
+         width: 1052px;
+         height: 266.2px;
+         transform: translate(438.8px, 473.3px);
+     }
+     #text-colum {
+         width: 1200px;
+         height: 81px;
+         margin-left: -3.5%;
+         margin-top: -5px;
+     }
+     .header-section-first-div p {
+         margin-top: -2.4%;
+         margin-left: -6px;
+     }
+     .button-in-header {
+         margin-left: 29.65%;
+         margin-top: 40px;
+     }
+     #CORE-FEATURES {
+         width: 200px;
+         height: 60px;
+     }
+     #PURCHASE-NOW {
+         width: 200px;
+         height: 60px;
+     }
+     .radio-header {
+         margin-top: 25.95%;
+         margin-left: -2px;
+     }
+     .navigation {
+         transform: translate(372px, 19px);
+         width: 190px;
+         height: 90px;
+     }
+     .navigation img {
+         width: 40px;
+         height: 45px;
+     }
+     .navigation-img-with-text {
+         width: 153.09px;
+         height: 48.5px;
+         margin-top: 3.5px;
+         margin-left: 3px;
+     }
+     .navigation-img-with-text p {
+         margin-top: 1.8px;
+         margin-left: 13px;
+     }
+     .navigation nav ul {
+         width: 938px;
+         height: 20px;
+         transform: translate(116.55px, -0.5px);
+     }
+     .page3 {
+         width: 1170px;
+         height: 390.44px;
+     }
+     .page3-first-div {
+         transform: translate(360px, 95px);
+     }
+     .page4 {
+         width: 1920px;
+         height: auto;
+     }
+     .page5 {
+         width: 1920px;
+         height: 645px;
+     }
+     .page5-header p {
+         width: 645.7px;
+         height: 41.24px;
+     }
+     .page5-mrgvali-box1 {
+         width: 270.32px;
+         height: 465.42px;
+     }
+     .page6 {
+         width: 1920px;
+         height: 534.36px;
+     }
+     .page6-header {
+         width: 630.7px;
+         height: 144.77px;
+     }
+     .page6-text-under-square-box p:last-child {
+         width: 339.58px;
+         height: 195.08px;
+     }
+     .page6-square-box1 {
+         width: 480px;
+         height: 298px;
+     }
+     .page6-square-box1 div img {
+         width: 40px;
+         height: 57px;
+     }
+     .boqlomi {
+         width: 48px !important;
+         height: 62px !important;
+     }
+     .gamadidebeli {
+         width: 57px !important;
+         height: 57px !important;
+     }
+     .witeli-icon {
+         width: 54.81px !important;
+         height: 54.58px !important;
+     }
+     /* .....page7... */
+     .page7 {
+         width: 1170.24px;
+         height: 658.08px;
+     }
+     .page7-box-for-navigation {
+         width: 1170.24px;
+         height: 55px;
+     }
+     #Sort-by-Date {
+         width: 122px;
+         height: 36px;
+     }
+     .boxes {
+         width: 1170px;
+         height: 400px;
+     }
+ }
