@@ -145,12 +145,35 @@
          width: 1171px;
          height: 658.08px;
      }
+     /* ......page11 */
      .page11 {
          width: 1170px;
          height: 150px;
      }
+     /* ....page12.... */
      .page12 {
          width: 1920px;
          height: 1264px;
+     }
+     /* .....page13..... */
+     .page13 {
+         width: 1185px;
+         height: 690.94px;
+     }
+     /* ....page14 */
+     .page14 {
+         width: 1920px;
+         height: 775px;
+     }
+     /* ...page15... */
+     .page15 {
+         width: 1920px;
+         height: 101px;
+         flex-wrap: wrap;
+     }
+     /* ...page16 */
+     .page16 {
+         width: 1920px;
+         height: 614px;
      }
  }
