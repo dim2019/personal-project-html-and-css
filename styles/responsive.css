@@ -183,6 +183,9 @@
  }
  
  @media screen and (min-width: 1024px) and (max-width: 1279px) {
+     body {
+         overflow-x: hidden;
+     }
      .header-section {
          width: 1279px;
          height: 700px;
