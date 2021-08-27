@@ -1,4 +1,4 @@
- @media screen and (min-width: 1280px) and (max-width: 11920px) {
+ @media screen and (min-width: 1280px) and (max-width: 1920px) {
      .header-section {
          width: 1920px;
          height: 1280px;
@@ -179,5 +179,313 @@
      .footer {
          width: 1920px;
          height: 80px;
+     }
+ }
+ 
+ @media screen and (min-width: 1024px) and (max-width: 1279px) {
+     .header-section {
+         width: 1279px;
+         height: 700px;
+     }
+     .header-section-first-div {
+         width: 552px;
+         height: 300.2px;
+         transform: translate(438.8px, 200.3px);
+     }
+     .header-section-first-div>h3 {
+         font-size: 24px;
+         line-height: 15px;
+         letter-spacing: 8.8px;
+         font-weight: 400;
+         word-spacing: 2px;
+         font-family: 'Lato', sans-serif;
+         color: #FFFFFF;
+         text-align: center;
+     }
+     #text-colum {
+         width: 1200px;
+         height: 81px;
+         margin-left: -20.5%;
+         margin-top: -5px;
+     }
+     .header-section-first-div p {
+         margin-top: -5.4%;
+         margin-left: -6px;
+     }
+     .button-in-header {
+         margin-left: 20.65%;
+         margin-top: 40px;
+     }
+     #CORE-FEATURES {
+         width: 150px;
+         height: 45px;
+     }
+     #PURCHASE-NOW {
+         width: 150px;
+         height: 45px;
+     }
+     #CORE-FEATURES {
+         font-size: 14px;
+     }
+     #PURCHASE-NOW {
+         font-size: 14px;
+     }
+     .radio-header {
+         margin-top: 15%;
+         margin-left: 152px;
+     }
+     .navigation {
+         transform: translate(50px, 19px);
+         width: 190px;
+         height: 90px;
+     }
+     .navigation img {
+         width: 40px;
+         height: 45px;
+     }
+     .navigation-img-with-text {
+         width: 153.09px;
+         height: 48.5px;
+         margin-top: 3.5px;
+         margin-left: 3px;
+     }
+     .navigation-img-with-text p {
+         margin-top: 1.8px;
+         margin-left: 13px;
+     }
+     .navigation nav ul {
+         width: 938px;
+         height: 20px;
+         transform: translate(116.55px, -0.5px);
+     }
+     .page3 {
+         width: 1170px;
+         height: 390.44px;
+     }
+     .page3-first-div {
+         transform: translate(0px, 95px);
+     }
+     /* ........პაგე4    */
+     .page4 {
+         width: 1279px;
+         height: auto;
+     }
+     .page4-left-div {
+         transform: translate(74px, 113px);
+     }
+     #VIEW-MORE {
+         width: 133.68px;
+         height: 35px;
+         font-size: 13px;
+     }
+     .iPad {
+         width: 443px;
+         height: 275px;
+         transform: translate(100px, 172px);
+     }
+     /* ......page 5..... */
+     .page5 {
+         width: 1279px;
+         height: 645px;
+     }
+     .page5-circle-boxes {
+         transform: translate(100px, 25px);
+     }
+     .page5-header p {
+         width: 545.7px;
+         height: 31.24px;
+     }
+     .page5-mrgvali-box1 {
+         width: 230.32px;
+         height: 445.42px;
+     }
+     .page5-header p {
+         font-size: 12px;
+         transform: translate(360px, -24px);
+     }
+     /*  .......page6........ */
+     .page6 {
+         width: 1279px;
+         height: 534.36px;
+         transform: translate(50px, 220px);
+     }
+     .page6-header {
+         width: 630.7px;
+         height: 144.77px;
+         transform: translate(345px, -20px);
+     }
+     .page6-text-under-square-box p:last-child {
+         width: 169.58px;
+         height: 245.08px;
+         font-size: 13px;
+     }
+     .page6-square-box1 {
+         width: 280px;
+         height: 298px;
+     }
+     .page6-square-box1 div img {
+         width: 40px;
+         height: 57px;
+     }
+     .boqlomi {
+         width: 48px !important;
+         height: 62px !important;
+     }
+     .gamadidebeli {
+         width: 57px !important;
+         height: 57px !important;
+     }
+     .witeli-icon {
+         width: 54.81px !important;
+         height: 54.58px !important;
+     }
+     /* .....page7... */
+     .page7 {
+         width: 1170.24px;
+         height: 658.08px;
+         transform: translate(10px, 248px);
+     }
+     .page7-box-for-navigation {
+         width: 1170.24px;
+         height: 55px;
+     }
+     #Sort-by-Date {
+         width: 122px;
+         height: 36px;
+     }
+     .boxes {
+         width: 1170px;
+         height: 400px;
+     }
+     /* ....page8.... */
+     .page8 {
+         width: 1279px;
+         height: 711px;
+     }
+     .page8-header-text {
+         transform: translate(0, 100px);
+     }
+     .page8-inline-div {
+         width: 970px;
+         height: 146px;
+         background: white;
+         border-radius: 1px;
+         border: none;
+         transform: translate(150px, 150px);
+     }
+     .page8-circle {
+         transform: translate(585px, 186.5px);
+     }
+     .page8-text-under-circle {
+         transform: translate(595px, 184px);
+     }
+     .page8-radio {
+         transform: translate(595px, 232px);
+     }
+     /* ......page9...... */
+     .page9 {
+         width: 1279px;
+         height: 882px;
+     }
+     .page-9-section-1 {
+         width: 300px;
+         height: 470px;
+         transform: translate(100px, 214px);
+     }
+     .page9-phone-box {
+         transform: translate(420.5px, -341px);
+     }
+     .page-9-section-3 {
+         transform: translate(930px, -906px);
+     }
+     /* .....page10..... */
+     .page10 {
+         width: 1171px;
+         height: 658.08px;
+         transform: translate(30px, 420px);
+     }
+     /* ......page11 */
+     .page11 {
+         width: 1170px;
+         height: 150px;
+         transform: translate(30px, 520px);
+     }
+     /* ....page12.... */
+     .page12 {
+         width: 1279px;
+         height: 1264px;
+     }
+     .page12-first-section {
+         width: 1279px;
+         transform: translate(30px, 101px);
+     }
+     .page12-second-section {
+         width: 1279px;
+         transform: translate(30px, 42px);
+     }
+     /* .....page13..... */
+     .page13 {
+         width: 1185px;
+         height: 690.94px;
+         transform: translate(30px, 704.45px);
+     }
+     /* ....page14 */
+     .page14 {
+         width: 1279px;
+         height: 775px;
+     }
+     .page14-left-section {
+         transform: translate(10px, 100px);
+     }
+     .page14-right-section {
+         width: 562px;
+         height: 550.8px;
+         transform: translate(30.36px, 100px);
+     }
+     /* ...page15... */
+     .page15 {
+         width: 1279px;
+         height: 101px;
+         flex-wrap: wrap;
+     }
+     .page15 nav ul {
+         margin-left: -50px;
+     }
+     /* ...page16 */
+     .page16 {
+         width: 1279px;
+         height: 614px;
+     }
+     .page16-about-us {
+         transform: translate(30px, 97px);
+     }
+     .page16-thefox {
+         display: flex;
+         transform: translate(0px, 172px)
+     }
+     .page16-text {
+         transform: translate(20px, 216px);
+     }
+     .page16-search {
+         display: flex;
+         transform: translate(15px, 245px);
+     }
+     .page16-middle {
+         transform: translate(400px, -76px);
+     }
+     .right-container {
+         transform: translate(774px, -418px);
+     }
+     /* ....footer */
+     .footer {
+         width: 1279px;
+         height: 80px;
+     }
+     .footer-fox-text {
+         display: flex;
+         transform: translate(30.5px, 32px);
+     }
+     .footer-navigation ul {
+         transform: translate(633px, -5px);
      }
  }
